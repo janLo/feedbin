@@ -19,8 +19,8 @@ GIT
       sax-machine (>= 1.0)
 
 GIT
-  remote: https://github.com/feedbin/feedkit.git
-  revision: d1c282922f52be64ca23602df831ae4a1b8d262b
+  remote: https://github.com/janlo/feedkit.git
+  revision: 727d1151809ac70ab691ed33c88012c208bb8b2e
   branch: master
   specs:
     feedkit (0.1.0)
